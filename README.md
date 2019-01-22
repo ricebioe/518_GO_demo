@@ -1,6 +1,7 @@
 # Gene Ontology Demo
 
 The list of genes below was extracted from Table S1 of [Woolfe et al. PLOS Biology 2004](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0030007#pbio-0030007-t001)
+Copy and paste them to http://www.geneontology.org/
 ```
 PRDM16
 RERE
